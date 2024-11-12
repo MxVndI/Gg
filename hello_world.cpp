@@ -5,5 +5,8 @@ int main()
 {
   cout << "Hello World";
 
-  return 867876;
+  string name;
+  cin >> name;
+  cout << "Hello World from " << name;
+  return 0;
 }
