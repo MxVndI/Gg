@@ -11,5 +11,6 @@ int main()
 //gfdgfdgfdgfdg
 //ahahha
 // еще комменты
+// gfdhfdgfdafasfs
   return 0;
 }
