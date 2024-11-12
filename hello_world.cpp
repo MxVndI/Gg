@@ -10,5 +10,6 @@ int main()
 
 //gfdgfdgfdgfdg
 //ahahha
+// еще комменты
   return 0;
 }
